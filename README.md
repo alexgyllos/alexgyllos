@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Alex. Welcome to my GitHub account 👋
 
 <!--
 **alexgyllos/alexgyllos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
