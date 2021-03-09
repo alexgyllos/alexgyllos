@@ -1,14 +1,17 @@
 ## Hi, I'm Alex. Welcome to my GitHub account 👋
 
-### Here are some of my most recent projects:
+<!--### Here are some of my most recent projects:
 
 www.annajwaterston.com - Graphic Designer / Illustrator Portfolio Website
 
 https://momentum-experience.herokuapp.com - Audio-Visual Web App
+-->
 
-### I'm currently working on:
+### I'm currently working at:
 
-A volunteering project for the Scottish Tech Arm building a mobile app for Asylum Seekers.
+Hubl Ltd. building a mileage tracking and fleet management mobile and web solution.
+<!--A volunteering project for the Scottish Tech Arm building a mobile app for Asylum Seekers.
+-->
 
 ### You can reach me on my email:
 alex.gyllos@gmail.com
