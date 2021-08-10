@@ -9,7 +9,7 @@ https://momentum-experience.herokuapp.com - Audio-Visual Web App
 
 ### I'm currently working at:
 
-Hubl Ltd. building a mileage tracking and fleet management mobile and web solution.
+Trackographics Ltd. building a mileage tracking and fleet management mobile and web solution.
 <!--A volunteering project for the Scottish Tech Arm building a mobile app for Asylum Seekers.
 -->
 
