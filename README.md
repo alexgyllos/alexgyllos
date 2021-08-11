@@ -13,13 +13,15 @@ https://momentum-experience.herokuapp.com - Audio-Visual Web App
 <!--A volunteering project for the Scottish Tech Arm building a mobile app for Asylum Seekers.
 -->
 
-### Some of my freelance projects are:
+### Some of my other projects are:
 
 #### [Leaf People Records](https://www.leafpeople.uk) // An interactive website for a Glasgow-based record label to help them promote their artists.
 
 #### [Smilezone](https://www.smilezone.gr) // A static website for a brand new dental clinic in Athens, Greece.
 
 #### [Organic Audio](https://www.theorganicaudio.com) // A static website for a Glasgow-based recording studio that is still under construction.
+
+#### [Momentum](https://momentum-experience.herokuapp.com/) // An interactive web app that makes use of your webcam and machine learning to make music.
 
 ### You can reach me on:
 
