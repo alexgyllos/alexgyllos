@@ -9,17 +9,19 @@ https://momentum-experience.herokuapp.com - Audio-Visual Web App
 
 ### I'm currently working at:
 
-#### [Trackographics](https://www.trackographics.com) // Building a mileage and Co2 emissions tracking for mobile and web.
+#### Fanduel
+
+<!-- #### [Trackographics](https://www.trackographics.com) // Building a mileage and Co2 emissions tracking for mobile and web. -->
 <!--A volunteering project for the Scottish Tech Arm building a mobile app for Asylum Seekers.
 -->
 
 ### Some of my other projects are:
 
+#### [Organic Audio](https://www.theorganicaudio.com) // A static website for a Glasgow-based recording studio.
+
 #### [Leaf People Records](https://www.leafpeople.uk) // An interactive website for a Glasgow-based record label to help them promote their artists.
 
 #### [Smilezone](https://www.smilezone.gr) // A static website for a brand new dental clinic in Athens, Greece.
-
-#### [Organic Audio](https://www.theorganicaudio.com) // A static website for a Glasgow-based recording studio that is still under construction.
 
 #### [Momentum](https://momentum-experience.herokuapp.com/) // An interactive web app that makes use of your webcam and machine learning to make music.
 
