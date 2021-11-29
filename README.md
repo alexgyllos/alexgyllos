@@ -21,8 +21,6 @@ https://momentum-experience.herokuapp.com - Audio-Visual Web App
 
 #### [Leaf People Records](https://www.leafpeople.uk) // An interactive website for a Glasgow-based record label to help them promote their artists.
 
-#### [Smilezone](https://www.smilezone.gr) // A static website for a brand new dental clinic in Athens, Greece.
-
 #### [Momentum](https://momentum-experience.herokuapp.com/) // An interactive web app that makes use of your webcam and machine learning to make music.
 
 ### You can reach me on:
