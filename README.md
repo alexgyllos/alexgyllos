@@ -19,7 +19,7 @@ https://momentum-experience.herokuapp.com - Audio-Visual Web App
 
 #### [Organic Audio](https://www.theorganicaudio.com) // A static website for a Glasgow-based recording studio.
 
-#### [Leaf People Records](https://www.leafpeople.uk) // An interactive website for a digital record label.
+<!-- #### [Leaf People Records](https://www.leafpeople.uk) // An interactive website for a digital record label. -->
 
 <!-- #### [Momentum](https://momentum-experience.herokuapp.com/) // An interactive web app that makes use of your webcam and machine learning to make music. -->
 
