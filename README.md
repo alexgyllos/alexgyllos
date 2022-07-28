@@ -7,9 +7,7 @@ www.annajwaterston.com - Graphic Designer / Illustrator Portfolio Website
 https://momentum-experience.herokuapp.com - Audio-Visual Web App
 -->
 
-### I'm currently working at:
-
-#### Fanduel
+### I'm currently working at FanDuel ⚽️
 
 <!-- #### [Trackographics](https://www.trackographics.com) // Building a mileage and Co2 emissions tracking for mobile and web. -->
 <!--A volunteering project for the Scottish Tech Arm building a mobile app for Asylum Seekers.
